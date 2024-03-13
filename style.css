@@ -1,0 +1,105 @@
+body {
+    background-color: grey;
+    display: flex;
+}
+
+#one{
+   padding-top:16px;
+       padding-bottom:16px;
+       padding-left:8px;
+       padding-right:8px;
+       background-color:rgb(241, 204, 255);
+       box-shadow: 0px 2px 2px 3px #000000;
+       -webkit-transform:rotate(10deg);
+       -o-transform:rotate(-4deg);
+       -moz-transform:rotate(-4deg);
+       width:240px;
+       height:240px
+    
+}
+
+#two{
+    padding-top:16px;
+    padding-bottom:16px;
+    padding-left:8px;
+    padding-right:8px;
+    background-color:rgb(41, 149, 158);
+    box-shadow: 0px 2px 2px 3px #080301;
+    -webkit-transform:rotate(-14deg);
+    -o-transform:rotate(-4deg);
+    -moz-transform:rotate(-4deg);
+    width:240px;
+    height:240px
+}
+
+#three {
+    padding-top:16px;
+        padding-bottom:16px;
+        padding-left:8px;
+        padding-right:8px;
+        background-color:rgb(227, 255, 204);
+        box-shadow: 0px 2px 2px 3px #1e0a0a;
+        -webkit-transform:rotate(10deg);
+        -o-transform:rotate(-4deg);
+        -moz-transform:rotate(-4deg);
+        width:240px;
+        height:240px
+}
+#four {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: rgb(255, 68, 0);
+    box-shadow: 0px 2px 2px 3px #1e0a0a;
+    -webkit-transform: rotate(-8deg);
+    -o-transform: rotate(-4deg);
+    -moz-transform: rotate(-4deg);
+    width: 240px;
+    height: 240px;
+}
+
+#five {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: aqua;
+    box-shadow: 0px 2px 2px 3px #1e0a0a;
+    -webkit-transform: rotate(10deg);
+    -o-transform: rotate(-4deg);
+    -moz-transform: rotate(-4deg);
+    width: 240px;
+    height: 240px;
+}
+
+#six {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: rgb(242, 255, 0);
+    box-shadow: 0px 2px 2px 3px #1e0a0a;
+    -webkit-transform: rotate(10deg);
+    -o-transform: rotate(-4deg);
+    -moz-transform: rotate(-4deg);
+    width: 240px;
+    height: 240px;
+}
+p {
+      font-family: "Reenie Beanie", cursive;
+      font-weight: 200px;
+      font-style: normal;
+}
+
+.Pa{
+color: blueviolet;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-decoration: line-through;
+text-align: right;
+font-family: "Indie Flower", cursive;
+font-weight: 400;
+font-style: normal;
+  }
+  
+
